@@ -94,13 +94,10 @@ Contributions are welcome! Fork the repo, create a branch, and submit a pull req
 - Enhancing visualizations.
 - Supporting real-time FPL API integration.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - Inspired by Fantasy Premier League data analysis communities.
 - Built with scikit-learn for ML and pandas for data handling.
 
-For questions, open an issue or contact [your.email@example.com]. Happy FPL season! ⚽
+For questions, open an issue or contact [ansh.parmar170@gmail.com]. Happy FPL season! ⚽
